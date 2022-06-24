@@ -6,5 +6,6 @@ public class Abstract {
 		System.out.println(23);
 		System.out.println(42);
 		System.out.println(52);
+		System.out.println(5);
 	}
 }
